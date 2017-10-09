@@ -1,2 +1,3 @@
 Julio Jesus
 Gosto de programar,e estudar
+validacao de conexao com o repositorio....
